@@ -7,6 +7,7 @@ namespace TestWebApp1.Models
 {
     public class DataObjects
     {
+        public int Id { get; set; }
     }
 
 
